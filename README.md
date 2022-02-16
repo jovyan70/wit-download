@@ -9,5 +9,5 @@ WIT dataset is a large multulingual image-text dataset collected from 108-langua
 
 For details, see  
 https://github.com/google-research-datasets/wit  
-https://ai.googleblog.com/2021/09/announcing-wit-wikipedia-based-image.html
+https://ai.googleblog.com/2021/09/announcing-wit-wikipedia-based-image.html  
 https://arxiv.org/abs/2103.01913  
